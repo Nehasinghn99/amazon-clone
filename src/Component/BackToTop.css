@@ -1,0 +1,13 @@
+.scroll-to-top {
+  position: sticky;
+  width: 100%;
+  cursor: pointer;
+}
+
+.back-top-container {
+  height: 40px;
+  text-align: center;
+  padding: 5px;
+  background-color: #37475a;
+  color: white;
+}

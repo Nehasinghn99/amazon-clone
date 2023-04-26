@@ -1,0 +1,18 @@
+.items{
+    display: flex;
+}
+
+.item{
+    background-color: white;
+    color: rgb(15, 16, 16);
+    margin: 5px;
+    padding: 30px;
+}
+
+.item img{
+    height: 250px;
+    max-width: 240px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

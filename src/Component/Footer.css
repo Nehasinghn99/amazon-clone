@@ -1,0 +1,88 @@
+.footer{
+    display:flex;
+    background-color: #232F3E;
+    color: white;
+}
+.get-container{
+    padding: 36px 77px;
+}
+
+.get-container p{
+    font-weight: 700;
+}
+.get{
+    display:flex;
+    font-size: small;
+    color: white;
+    text-decoration: none;
+}
+
+.footer-container{
+    display: flex;
+    justify-content: center;
+    background-color: #232F3E;
+    border-top: 1px solid  rgb(140, 136, 136);
+}
+
+.footer-logo{
+    width: 100px;
+    margin-top: 25px;
+    
+}
+
+.language{
+    margin-top: 18px;
+    margin-bottom: 25px;
+    margin-left: 100px;
+}
+
+.footer-country{
+    display: flex;
+    justify-content: center;
+    background-color: #232F3E;
+   
+}
+
+.country{
+    color: white;
+    font-size: small;
+    text-decoration: none;
+    margin: 5px;
+}
+
+.footer-books{
+    background-color: #131A22;
+    color: white;
+}
+
+.books{
+    text-decoration: none;
+    color: white;
+    font-size: small;
+    /* margin-left: 100px; */
+    margin:30px 100px 50px 50px;;
+}
+.books p{
+    font-weight: 1;
+}
+
+.footer-lower{
+    display: flex;
+    justify-content: center;
+    background-color: #131A22;
+    font-size: small;
+}
+
+.lower-footer{
+    display: flex;
+    justify-content: center;
+    background-color: #131A22;
+    font-size: small;
+    padding: 0 0 50px;
+}
+
+.lower{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}

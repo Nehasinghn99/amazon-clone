@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(209,204,204);
+}
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.searchInput_Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
